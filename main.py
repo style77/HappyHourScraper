@@ -5,7 +5,7 @@ import discord
 import time
 
 URL = 'https://www.x-kom.pl/goracy-strzal'  # morele coming soon
-WEBHOOK_URL = 'https://discord.com/api/webhooks/985651503115173928/Wx0uTzjxhGqUA3hxEDruYxEMyOCCiujK_1uiAReHFpPw7rvhl9S9YtECvFvI1ao1VY9h'
+WEBHOOK_URL = ''
 INTERVAL = 1800  # 30min
 
 url_contents = urllib.request.urlopen(URL).read()
